@@ -1,0 +1,11 @@
+Honda Civic,Sedan,5000,7
+Corolla Altis,Sedan,4800,5
+Suzuki Cultus,Hatchback,3000,10
+Swift,Hatchback,3500,6
+Land Cruiser,SUV,15000,4
+Prado,SUV,12000,3
+Toyota Revo,Pickup,9000,5
+Vigo,Pickup,8500,4
+Hiace,Van,7000,12
+APV,Van,6000,9
+honda civic,Sedan,12000,9

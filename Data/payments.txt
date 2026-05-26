@@ -1,0 +1,56 @@
+------ PAYMENT RECORD ------
+Customer: ali
+Payment Method: Cash
+Items:
+Honda Civic - 1 Days - Rs 5000
+Total Amount: Rs 5000
+----------------------------
+
+------ PAYMENT RECORD ------
+Customer: ali
+Payment Method: Cash
+Items:
+Honda Civic - 1 Days - Rs 5000
+Total Amount: Rs 5000
+----------------------------
+
+------ PAYMENT RECORD ------
+Customer: ali
+Payment Method: Cash
+Items:
+Honda Civic - 1 Days - Rs 5000
+Total Amount: Rs 5000
+----------------------------
+
+------ PAYMENT RECORD ------
+Customer: ali
+Payment Method: Cash
+Items:
+Corolla Altis - 1 Days - Rs 4800
+Total Amount: Rs 4800
+----------------------------
+
+------ PAYMENT RECORD ------
+Customer: doremon
+Payment Method: Cash
+Items:
+Corolla Altis - 1 Days - Rs 4800
+Total Amount: Rs 4800
+----------------------------
+
+------ PAYMENT RECORD ------
+Customer: doremon
+Payment Method: Cash
+Items:
+Corolla Altis - 1 Days - Rs 4800
+Total Amount: Rs 4800
+----------------------------
+
+------ PAYMENT RECORD ------
+Customer: doremon
+Payment Method: Cash
+Items:
+Corolla Altis - 1 Days - Rs 4800
+Total Amount: Rs 4800
+----------------------------
+

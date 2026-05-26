@@ -1,0 +1,5 @@
+------ BOOKING RECORD ------
+Corolla Altis - 1 Days - Rs 4800
+Total Amount: Rs 4800
+----------------------------
+
